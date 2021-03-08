@@ -1,0 +1,23 @@
+{
+  "name": "open-sushi-nestjs",
+  "version": "1.0.0",
+  "description": "### Building",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sambacha/open-sushi-nestjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sambacha/open-sushi-nestjs/issues"
+  },
+  "homepage": "https://github.com/sambacha/open-sushi-nestjs#readme",
+  "devDependencies": {
+    "prettier": "^2.2.1",
+    "typescript": "^3.8.2"
+  }
+}
