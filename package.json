@@ -1,7 +1,7 @@
 {
   "name": "open-sushi-nestjs",
   "version": "1.0.0",
-  "description": "### Building",
+  "description": "SushiSwap NestJS",
   "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
